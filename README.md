@@ -7,7 +7,7 @@
  <a href="https://www.linkedin.com/in/modarreszadeh/" alt="Connect on LinkedIn">
    <img src="https://img.shields.io/badge/-modarreszadeh-0072b1?style=flat&logo=Linkedin&logoColor=white" />
  </a>
- <a href="mailto:mj.modarreszadehmohammad@gmail.com" alt="Gmail">
+ <a href="mailto:modarreszadehmohammad@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-modarreszadehmohammad@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
  </a>
  <a href="https://t.me/m_modarreszadeh" alt="Contact on Telegram">
